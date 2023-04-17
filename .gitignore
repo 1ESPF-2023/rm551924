@@ -1,3 +1,6 @@
+# Minhas regras.
+.vscode/*
+
 # Logs
 logs
 *.log
